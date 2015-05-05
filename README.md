@@ -14,5 +14,6 @@ Integración a través de gestores de paquetes como bower de librerías hechas p
 ### 4. TRABAJO GRÁFICO CON ANGULAR: 
 MATERIAL DESIGN, POLYMER/ANGULAR, FAMO.US/ANGULAR, ANGULAR UI, ETC
 
-### 5. ESCRIBIENDO APLICACIONES HÍBRIDAS CON ANGULARJS:
- EXPERIENCIAS Y HERRAMIENTAS PARA HACER APLICACIONES HÍBRIDAS CON ANGULARJS.
+### 5. ESCRIBIENDO APLICACIONES HÍBRIDAS CON IONICFRAMEWORK:
+ Desarrollar aplicaciones hibridas con ionic.
+ #### Relator Gabriel Muñoz https://github.com/gbelmm
